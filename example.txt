@@ -1,0 +1,4 @@
+"1231233"
+similar adjacent substrings = 2
+i.e. 123123
+and 33
